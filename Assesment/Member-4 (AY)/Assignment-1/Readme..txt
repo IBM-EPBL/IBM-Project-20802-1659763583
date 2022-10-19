@@ -1,1 +1,0 @@
-Car Resale Value Predictor
